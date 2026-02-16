@@ -333,6 +333,6 @@ Built to demonstrate production-ready Python API development practices, showcasi
 
 ## Contact
 
-- GitHub: [@yourusername](https://github.com/athullur-svg)
+- GitHub: [@athullur-svg](https://github.com/athullur-svg)
 - LinkedIn: [Alekhya Thulluru](https://www.linkedin.com/in/alekhyathulluru/)
 - Email: athullur@gmail.com
